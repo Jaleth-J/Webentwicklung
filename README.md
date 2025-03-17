@@ -25,8 +25,8 @@ Funktionales beispiel.
 Eine Gruppe von 8 leuten möhte reisen kann sich aber nicht entscheiden wohin.
 So kann man Länder die man mag hervorheben, die man hasst rausnehmen und länder die einem egal sind etwas runterdrimmen.
 Und so dann am ende ein ergebnis von
-2 mal Italien
-1 mal Kroatien
-1 mal Frankreich ...
+- 2 mal Italien
+- 1 mal Kroatien
+- 1 mal Frankreich ...
 So gewinnt Italien.
 
