@@ -15,5 +15,5 @@
 ### **Die Funktionen**  
 > Dabei soll es einmal das Spiel an sich geben,  
 > in dem man durch einen Klick zu der verknüpften nächsten Seite kommt (2 Modi).  
-> Einen Knopf, bei dem man seinen Highscore anzeigen lassen kann und löschen kann.  
+> Einen Knopf, bei dem man seinen Highscore anzeigen lassen kann.  
 > Und einen Login, um den Highscore zu speichern und aufrufen zu können.  
